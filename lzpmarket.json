@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "name": "lzpmarket-test",
+  "title": "测试",
+  "version": "1.0.0",
+  "versionMode": "semantic",
+  "publisher": "nekobyran",
+  "publisherAvatar": "assets\/258021052.jpg",
+  "description": "测试",
+  "icon": "assets\/image-3A1000314014.png",
+  "readme": "README.md",
+  "sources": "sources.lzp",
+  "categories": []
+}
